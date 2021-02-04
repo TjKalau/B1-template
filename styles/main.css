@@ -127,6 +127,11 @@ article h2.open-forever{
   justify-content: space-between;
 }
 
+.rides-open{
+  display: flex;
+  justify-content: space-between;
+}
+
 .product{
   margin-right: 1em;
   padding: 1em;
