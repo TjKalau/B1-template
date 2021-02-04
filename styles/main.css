@@ -147,6 +147,14 @@ button{
   text-align: center;
 }
 
+article{
+  text-shadow: 0 0 0 #FCFCFC,
+  -1px -1px 0 #FCFCFC,
+  1px -1px 0 #FCFCFC,
+  1px 1px 0 #FCFCFC,
+  1px 1px 0 #FCFCFC;
+}
+
 .product{
   margin-right: 1em;
   padding: 1em;
