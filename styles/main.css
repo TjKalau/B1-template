@@ -136,6 +136,17 @@ button{
   cursor: pointer;
 }
 
+.emphasize article{
+  box-shadow: 1px 0px 5px #27AE60;
+  padding: 1rem;
+}
+
+.emphasize h2{
+  margin: 0;
+  border-left: none;
+  text-align: center;
+}
+
 .product{
   margin-right: 1em;
   padding: 1em;
