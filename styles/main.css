@@ -155,6 +155,28 @@ article{
   1px 1px 0 #FCFCFC;
 }
 
+.mok{
+  display: flex;
+  justify-content: space-between;
+}
+
+.mok2{
+  flex-direction: row-reverse;
+}
+
+.mok2 button{
+  width: 550px;
+}
+
+.mok img{
+  width: 300px;
+}
+
+.product-wrapper{
+  width: 960px;
+  margin: 0 auto;
+}
+
 .product{
   margin-right: 1em;
   padding: 1em;
